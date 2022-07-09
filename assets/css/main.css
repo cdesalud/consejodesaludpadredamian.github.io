@@ -13,6 +13,9 @@
 #about .about-p{
 	text-align: justify;
 }
+html {
+	scroll-behavior: smooth;
+  }
 
 /* ------------------------------ */
 html, body, div, span, applet, object,
@@ -3384,6 +3387,7 @@ input, select, textarea {
 		}
 
 /* Banner */
+
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
